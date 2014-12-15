@@ -4,4 +4,8 @@ Nautical is based on the new Android Lollipop (Android L) branch and promises to
 
 If you have any questions contact us at support@nauticalroms.com
 
-Nautical Manifest
+
+
+Cheers!,
+
+The Nautical Team (TNT)
